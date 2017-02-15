@@ -1,7 +1,7 @@
 # Free Code Camp BA Quick Start
 
 1. Antes que nada, leé nuestro [FAQ](https://freecodecampba.org/faq/) y [Código de Conducta](https://freecodecampba.org/codigo/).
-2. Leé acerca de [cómo pedir ayuda](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) de la mejor manera.
+2. Tenés dudas sobre algo? [Cómo pedir ayuda](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) de la mejor manera.
 
 ## Links
 
@@ -25,7 +25,7 @@
 - [http://cssreference.io/](http://cssreference.io/) – Guía visual de CSS.
 - [Learn CSS Layout](http://learnlayout.com/) – Lo esencial sobre CSS layouts.
 
-## Free eBooks
+## eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) – Libro para empezar a programar en JS.
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) – Serie de libros sobre el lenguaje.
