@@ -6,6 +6,8 @@
 - [Twitter](https://twitter.com/FreeCodeCampBA)
 - [Facebook](https://www.facebook.com/groups/free.code.camp.buenos.aires/)
 
+---
+
 ## HTML & CSS
 
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) – A simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
