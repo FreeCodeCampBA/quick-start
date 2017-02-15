@@ -1,13 +1,14 @@
 # Free Code Camp BA Quick Start
 
+1. Read our [FAQ](https://freecodecampba.org/faq/) and [Code of Conduct](https://freecodecampba.org/codigo/) first.
+2. Read [how to ask for help](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help).
+
+## Links
 - [Website](https://freecodecampba.org)
 - [Meetup](https://www.meetup.com/FreeCodeCampBA)
 - [Slack](https://freecodecampba.org/chat)
 - [Twitter](https://twitter.com/FreeCodeCampBA)
 - [Facebook](https://www.facebook.com/groups/free.code.camp.buenos.aires/)
-
-1. Read our [FAQ](https://freecodecampba.org/faq/) and [Code of Conduct](https://freecodecampba.org/codigo/) first.
-2. Read [how to ask for help](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help).
 
 ---
 
