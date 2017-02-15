@@ -32,6 +32,6 @@
 
 ## Node.js
 
-- [The Art of Node](https://github.com/maxogden/art-of-node#readme) – Introducción, tutoriales que cubren lo básico de NodeJS. 
-- [NodeSchool](https://nodeschool.io) – Workshop interactivos para aprender de forma autodidacta.
+- [The Art of Node](https://github.com/maxogden/art-of-node#readme) – Introducción y tutoriales que cubren lo básico de NodeJS. 
+- [NodeSchool](https://nodeschool.io) – Workshops interactivos para aprender de forma autodidacta.
 - [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) – Tutorial completo sobre NodeJS.
