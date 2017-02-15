@@ -16,7 +16,7 @@
 ## Referencias
 
 - [MDN Mozilla Developer Guide](https://developer.mozilla.org/en-US/) – La referencia más completa sobre HTML, CSS & JS.
-- [DevDocs](http://devdocs.io/javascript) – Buscá en MDN de manera más cómoda. Funciona offline.
+- [DevDocs](http://devdocs.io/javascript) – Buscá en MDN de forma más cómoda. También funciona offline.
 - [Simplified JavaScript Jargon](http://jargon.js.org) – Glosario que explica las palabras complicadas del ecosistema JS.
 
 ## HTML & CSS
