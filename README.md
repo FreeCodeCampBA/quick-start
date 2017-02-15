@@ -8,18 +8,18 @@
 
 ---
 
-## HTML & CSS
-
-- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) – A simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
-- [http://cssreference.io/](http://cssreference.io/) – A free visual guide to CSS.
-- [Learn CSS Layout](http://learnlayout.com/) – This site teaches the CSS fundamentals that are used in any website's layout.
-
 ## References
 
 - [MDN Mozilla Developer Guide](https://developer.mozilla.org/en-US/) – Reference, tutorials about HTML, CSS & JS
  best language reference.
 - [DevDocs](http://devdocs.io/javascript) – Search MDN comfortably. Even offline.
 - [Simplified JavaScript Jargon](http://jargon.js.org) – Glossary which explains all the buzzwords from the JavaScript eco system.
+
+## HTML & CSS
+
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) – A simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
+- [http://cssreference.io/](http://cssreference.io/) – A free visual guide to CSS.
+- [Learn CSS Layout](http://learnlayout.com/) – This site teaches the CSS fundamentals that are used in any website's layout.
 
 ## Free eBooks
 
