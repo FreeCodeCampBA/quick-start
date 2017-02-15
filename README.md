@@ -6,6 +6,9 @@
 - [Twitter](https://twitter.com/FreeCodeCampBA)
 - [Facebook](https://www.facebook.com/groups/free.code.camp.buenos.aires/)
 
+1. Read our [FAQ](https://freecodecampba.org/faq/) and [Code of Conduct](https://freecodecampba.org/codigo/) first.
+2. Read [how to ask for help](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help).
+
 ---
 
 ## References
