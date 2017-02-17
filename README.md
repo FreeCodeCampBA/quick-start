@@ -1,13 +1,13 @@
 # Free Code Camp BA Quick Start
 
 1. Antes que nada, leé nuestro [FAQ](https://freecodecampba.org/faq/) y [Código de Conducta](https://freecodecampba.org/codigo/).
-2. Tenés dudas sobre algo? [Cómo pedir ayuda](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) de la mejor manera.
+2. Unite a [nuestro chat en Slack](https://freecodecampba.org/chat).
+3. Tenés dudas sobre algo? [Cómo pedir ayuda](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) de la mejor manera.
+4. Chequeá que te hayas unido a [nuestra comunidad en Meetup](https://www.meetup.com/FreeCodeCampBA) y asegurate de hacer RSVP con tus datos los días que vayas a venir!
 
-## Links
+## Sitio y redes sociales
 
 - [Website](https://freecodecampba.org)
-- [Meetup](https://www.meetup.com/FreeCodeCampBA)
-- [Slack](https://freecodecampba.org/chat)
 - [Twitter](https://twitter.com/FreeCodeCampBA)
 - [Facebook](https://www.facebook.com/groups/free.code.camp.buenos.aires/)
 
