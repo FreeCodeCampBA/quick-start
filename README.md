@@ -1,17 +1,26 @@
 # Free Code Camp BA Quick Start
 
-1. Antes que nada, leé nuestro [FAQ](https://freecodecampba.org/faq/) y [Código de Conducta](https://freecodecampba.org/codigo/).
-2. Unite a [nuestro chat en Slack](https://freecodecampba.org/chat).
-3. Tenés dudas sobre algo? [Cómo pedir ayuda](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) de la mejor manera.
-4. Chequeá que te hayas unido a [nuestra comunidad en Meetup](https://www.meetup.com/FreeCodeCampBA) y asegurate de hacer RSVP con tus datos los días que vayas a venir!
+**:wave: Hola! Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:**
+
+0. Antes que nada, leé nuestro [FAQ](https://freecodecampba.org/faq/) y [Código de Conducta](https://freecodecampba.org/codigo/).
+1. Si todavía no lo hiciste, create una cuenta en [GitHub](https://github.com/).
+2. Registrate en la página de [Free Code Camp](https://www.freecodecamp.com/) (plataforma que usamos para aprender) con tu cuenta de GitHub.
+3. Unite a nuestro [chat en Slack](https://freecodecampba.org/chat).
+4. Tenés dudas sobre algo? [Cómo pedir ayuda](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) de la mejor manera.
+5. Chequeá que te hayas unido a [nuestra comunidad en Meetup](https://www.meetup.com/FreeCodeCampBA) y asegurate de hacer RSVP con tus datos los días que vayas a venir!
+6. Nuestra filosofía de aprendizaje se basa en el [intercambio entra pares](https://en.wikipedia.org/wiki/Peer_learning): cuando aprendas algo nuevo podés enseñárselo a otra persona. Además, la mejor forma de aprender es enseñando.
+7. Cualquier problema, consulta o sugerencia que tengas, comunicate con los [organizadores](https://github.com/FreeCodeCampBA/quick-start#organizadores).
 
 ## Sitio y redes sociales
 
 - [Website](https://freecodecampba.org)
 - [Twitter](https://twitter.com/FreeCodeCampBA)
 - [Facebook](https://www.facebook.com/groups/free.code.camp.buenos.aires/)
+- [eMail](mailto:freecodecampba@gmail.com)
 
 ---
+
+# Algunos recursos gratuitos complementarios
 
 ## Referencias
 
@@ -35,3 +44,12 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node#readme) – Introducción y tutoriales que cubren lo básico de NodeJS. 
 - [NodeSchool](https://nodeschool.io) – Workshops interactivos para aprender de forma autodidacta.
 - [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) – Tutorial completo sobre NodeJS.
+
+---
+
+## Organizadores
+
+- Leonardo Galante [@leo_gln ](https://twitter.com/leo_gln)
+- Nicolás Quiroz [@_nhsz](https://twitter.com/_nhsz)
+- Ariel Gerstein [@arielger_](https://twitter.com/arielger_)
+- Camilo Rodríguez Blanco [@camilolwi](https://twitter.com/Camilolwi)
