@@ -34,6 +34,10 @@
 - [http://cssreference.io/](http://cssreference.io/) – Guía visual de CSS.
 - [Learn CSS Layout](http://learnlayout.com/) – Lo esencial sobre CSS layouts.
 
+## JavaScript
+
+- [JavaScript For Cats](http://jsforcats.com/)
+
 ## eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) – Libro para empezar a programar en JS.
