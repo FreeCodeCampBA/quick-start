@@ -27,12 +27,10 @@
 - [MDN Mozilla Developer Guide](https://developer.mozilla.org/en-US/) – La referencia más completa sobre HTML, CSS & JS.
 - [DevDocs](http://devdocs.io/javascript) – Buscá en MDN de forma más cómoda. También funciona offline.
 - [Simplified JavaScript Jargon](http://jargon.js.org) – Glosario que explica las palabras complicadas del ecosistema JS.
-- [http://cssreference.io/](http://cssreference.io/) – Guía visual de CSS.
 
 ## HTML & CSS
 
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) – Una guía simple para aprender HTML y CSS.
-- [Learn CSS Layout](http://learnlayout.com/) – Lo esencial sobre CSS layouts.
 
 ## JavaScript
 
@@ -47,7 +45,6 @@
 
 - [The Art of Node](https://github.com/maxogden/art-of-node#readme) – Introducción y tutoriales que cubren lo básico de NodeJS. 
 - [NodeSchool](https://nodeschool.io) – Workshops interactivos para aprender de forma autodidacta.
-- [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) – Tutorial completo sobre NodeJS.
 
 ---
 
