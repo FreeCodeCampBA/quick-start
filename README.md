@@ -36,7 +36,7 @@
 
 ## JavaScript
 
-- [JavaScript For Cats](http://jsforcats.com/)
+- [JavaScript For Cats](http://jsforcats.com/) – Una introducción para nuevos programadores.
 
 ## eBooks
 
