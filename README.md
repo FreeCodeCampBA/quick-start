@@ -8,7 +8,7 @@
 3. Unite a nuestro [chat en Slack](https://freecodecampba.org/chat).
 4. Tenés dudas sobre algo? [Cómo pedir ayuda](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) de la mejor manera.
 5. Chequeá que te hayas unido a [nuestra comunidad en Meetup](https://www.meetup.com/FreeCodeCampBA) y asegurate de hacer RSVP con tus datos los días que vayas a venir!
-6. Nuestra filosofía de aprendizaje se basa en el [intercambio entra pares](https://en.wikipedia.org/wiki/Peer_learning): cuando aprendas algo nuevo podés enseñárselo a otra persona. Además, la mejor forma de aprender es enseñando.
+6. Nuestra filosofía de aprendizaje se basa en el [intercambio entre pares](https://en.wikipedia.org/wiki/Peer_learning): cuando aprendas algo nuevo podés enseñárselo a otra persona. Además, la mejor forma de aprender es enseñando.
 7. Cualquier problema, consulta o sugerencia que tengas, comunicate con los [organizadores](https://github.com/FreeCodeCampBA/quick-start#organizadores).
 
 ## Sitio y redes sociales
