@@ -20,7 +20,7 @@
 
 ---
 
-# Algunos recursos gratuitos complementarios
+# Recursos gratuitos complementarios
 
 ## Referencias
 
@@ -36,14 +36,14 @@
 
 - [JavaScript For Cats](http://jsforcats.com/) – Una introducción para nuevos programadores.
 
+## Node.js
+
+- [The Art of Node](https://github.com/maxogden/art-of-node#readme) – Introducción y tutoriales que cubren lo fundamental de NodeJS.
+
 ## eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) – Libro para empezar a programar en JS.
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) – Serie de libros sobre el lenguaje.
-
-## Node.js
-
-- [The Art of Node](https://github.com/maxogden/art-of-node#readme) – Introducción y tutoriales que cubren lo fundamental de NodeJS.
 
 ---
 
