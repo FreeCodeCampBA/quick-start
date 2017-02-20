@@ -6,7 +6,7 @@
 
 <br>
   <p align="center">
-    <strong>Hola! :wave: Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:</strong>
+    <strong>Hola! :wave: Bienvenid@ a nuestra comunidad. ¡Acá tenés una guía rápida para empezar! :sparkles:</strong>
   </p>
 <br>
 
