@@ -1,8 +1,6 @@
 # :computer: Free Code Camp BA Quick Start
 
-<p align="center"><strong>Hola! :wave: Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:**</strong></p>
-
----
+<p align="center"><strong>Hola! :wave: Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:</strong></p>
 
 0. Antes que nada, leé nuestro **[`FAQ`](https://freecodecampba.org/faq/)** y **[`Código de Conducta`](https://freecodecampba.org/codigo/)**.
 1. Si todavía no lo hiciste, create una cuenta en **[`GitHub`](https://github.com/)**.
