@@ -1,7 +1,13 @@
-# :computer: Free Code Camp BA Quick Start :rocket:
+<h1 align="center">
+  <br>
+    :computer: Free Code Camp BA Quick Start :rocket:
+  <br>
+</h1>
 
 <br>
-<p align="center"><strong>Hola! :wave: Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:</strong></p>
+  <p align="center">
+    <strong>Hola! :wave: Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:</strong>
+  </p>
 <br>
 
 0. Antes que nada, leé nuestro **[`FAQ`](https://freecodecampba.org/faq/)** y **[`Código de Conducta`](https://freecodecampba.org/codigo/)**.
