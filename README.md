@@ -1,6 +1,8 @@
 # :computer: Free Code Camp BA Quick Start
 
+<br>
 <p align="center"><strong>Hola! :wave: Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:</strong></p>
+<br>
 
 0. Antes que nada, leé nuestro **[`FAQ`](https://freecodecampba.org/faq/)** y **[`Código de Conducta`](https://freecodecampba.org/codigo/)**.
 1. Si todavía no lo hiciste, create una cuenta en **[`GitHub`](https://github.com/)**.
@@ -18,7 +20,7 @@
 - **[`Facebook`](https://www.facebook.com/groups/free.code.camp.buenos.aires/)**  
 - **[`eMail`](mailto:freecodecampba@gmail.com)**  
 
----
+<br>
 
 # Recursos gratuitos complementarios
 
@@ -45,7 +47,7 @@
 - **[Eloquent JavaScript](http://eloquentjavascript.net)** – Libro para empezar a programar en JS.
 - **[You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)** – Serie de libros sobre el lenguaje.
 
----
+<br>
 
 ## Organizadores
 
