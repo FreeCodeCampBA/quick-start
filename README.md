@@ -1,4 +1,4 @@
-# :computer: Free Code Camp BA Quick Start
+# :computer: Free Code Camp BA Quick Start :rocket:
 
 <br>
 <p align="center"><strong>Hola! :wave: Bienvenid@ a nuestra comunidad. Acá tenés una guía rápida para empezar! :sparkles:</strong></p>
