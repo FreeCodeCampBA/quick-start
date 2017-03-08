@@ -38,7 +38,7 @@
 
 ## HTML & CSS
 
-- **[Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)** – Una guía simple para aprender HTML y CSS.
+- **[Learn to Code HTML & CSS](https://internetingishard.com/html-and-css/)** – Una guía simple para aprender HTML y CSS.
 
 ## JavaScript
 
