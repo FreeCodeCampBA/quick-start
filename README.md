@@ -1,8 +1,4 @@
-<h1 align="center">
-  <br>
-    :computer: Free Code Camp BA Quick Start :rocket:
-  <br>
-</h1>
+# :computer: Free Code Camp BA Quick Start :rocket:  
 
 <br>
   <p align="center">
