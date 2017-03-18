@@ -48,6 +48,9 @@
 
 > Algunas recomendaciones para pasar al siguiente nivel: habilidades necesarias para trabajar como dev.
 
+- Hacé de la programación un hábito, no importa que puedas dedicarle poco tiempo por día, lo más importante es ser regular.
+- Andá a nuestras Meetups! Hablar con gente que también está aprendiendo, compartir tus experiencias y hacer networking suman muchísimo.
+- Enfocate en aprender los conceptos, no las herramientas, librerías, frameworks.
 - No copies y pegues código ajeno en tus proyectos, tipeá cada caracter! 
 - En lugar de resolver los ejercicios en Codepen o el editor de la plataforma, instalate un editor de texto y desarrollá localmente en tu máquina: **[`Atom`](https://atom.io/)**, **[`Sublime Text`](https://www.sublimetext.com/)** y **[`Visual Studio Code`](https://code.visualstudio.com/)** son alternativas gratuitas que podés usar. Probá y elegí el que más te guste!
 - Usá **[`Codepen`](https://codepen.io/)** y cualquier otro editor/IDE online **sólo** para compartir de manera fácil y rápida tus proyectos, **no para desarrollarlos**. 
