@@ -20,6 +20,8 @@
 
 ---
 
+<br>
+
 ## Primeros pasos
 
 0. Antes que nada, leé nuestro **[`FAQ`](https://github.com/FreeCodeCampBA/faq)** y **[`Código de Conducta`](https://github.com/FreeCodeCampBA/codigo)**.
@@ -34,6 +36,8 @@
 \(*) Por respeto y consideración con los demás, te pedimos que en caso de que sepas que no vas a poder asistir a algún encuentro actualices tu `RSVP`. Gracias.
 
 ### Sitio y redes sociales
+
+> Para estar al tanto de todas las novedades
 
 - **[`Website`](https://freecodecampba.org)**  
 - **[`Twitter`](https://twitter.com/FreeCodeCampBA)**  
