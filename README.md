@@ -58,7 +58,7 @@
 - Subí todo tu código a tu cuenta de GitHub, en repositorios públicos. De ahora en más, tratalo como **tu nuevo CV**.
 - Publicá tus proyectos en la web y compartilas, usando **[`GitHub Pages`](https://pages.github.com/)**, **[`Surge.sh`](https://surge.sh/)** o **[`Heroku`](https://www.heroku.com/)**.
 - Si estás leyendo algún libro o haciendo un curso complementario, completá los ejercicios.
-- Problemas algorítmicos? Leé algunas [estrategias y consejos](https://nicolasquiroz.com/problem-solving-strategies/) para resolverlos.
+- Problemas algorítmicos? Leé algunas **[`estrategias y consejos`](https://nicolasquiroz.com/problem-solving-strategies/)** para resolverlos.
 
 ---
 
