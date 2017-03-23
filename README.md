@@ -63,7 +63,7 @@
 - Usá **[`Codepen`](https://codepen.io/)** y cualquier otro editor/IDE online **sólo** para compartir de manera fácil y rápida tus proyectos, **no para desarrollarlos**. 
 - Aprendé y usá **[`Git`](https://git-scm.com/)** en todos tus proyectos. 
 - Subí todo tu código a tu cuenta de GitHub, en repositorios públicos. De ahora en más, tratalo como **tu nuevo CV**.
-- Publicá tus proyectos en la web y compartilas, usando **[`GitHub Pages`](https://pages.github.com/)**, **[`Surge.sh`](https://surge.sh/)** o **[`Heroku`](https://www.heroku.com/)**.
+- Publicá tus proyectos en la web y compartilas, usando **[`GitHub Pages`](https://pages.github.com/)**, **[`Surge.sh`](https://surge.sh/)**, **[`Heroku`](https://www.heroku.com/)** o **[`Now`](https://zeit.co/now)**. 
 - Si estás leyendo algún libro o haciendo un curso complementario, completá los ejercicios.
 - Problemas algorítmicos? Leé algunas **[`estrategias y consejos`](https://nicolasquiroz.com/problem-solving-strategies/)** para resolverlos.
 
