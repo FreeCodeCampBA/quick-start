@@ -24,14 +24,21 @@
 
 ## Primeros pasos
 
-0. Antes que nada, leé nuestro **[`FAQ`](https://github.com/freeCodeCampBA/faq)** y **[`Código de Conducta`](https://github.com/freeCodeCampBA/codigo)**.
-1. Si todavía no lo hiciste, create una cuenta en **[`GitHub`](https://github.com/)**.
-2. Registrate en **[`freeCodeCamp`](https://www.freecodecamp.com/)** con tu cuenta de GitHub.
-3. Unite a nuestro **[`chat en Slack`](https://freecodecampba.org/chat)**.
-4. Tenés dudas sobre algo? **[`Cómo pedir ayuda`](https://forum.freecodecamp.com/t/how-to-get-help-when-you-are-stuck/19514)** de la mejor manera.
-5. Chequeá que te hayas unido a **[`nuestra comunidad en Meetup`](https://www.meetup.com/freeCodeCampBA)** y asegurate de hacer `RSVP` con tus datos los días que vayas a venir!\* **(obligatorio)**.
-6. Nuestra filosofía de aprendizaje se basa en el **[`intercambio entre pares`](https://en.wikipedia.org/wiki/Peer_learning)**: cuando aprendas algo nuevo podés enseñárselo a otra persona. Además, es la mejor forma de poner a prueba tus conocimientos.
-7. Cualquier problema, consulta o sugerencia que tengas, comunicate con los **[`organizadores`](#organizadores)**.
+1. Antes que nada, leé nuestro **[`FAQ`](https://github.com/freeCodeCampBA/faq)** y **[`Código de Conducta`](https://github.com/freeCodeCampBA/codigo)**.
+
+2. Si todavía no lo hiciste, create una cuenta en **[`GitHub`](https://github.com/)**.
+
+3. Registrate en **[`freeCodeCamp`](https://www.freecodecamp.com/)** con tu cuenta de GitHub.
+
+4. Unite a nuestro **[`chat en Slack`](https://freecodecampba.org/chat)**.
+
+5. Tenés dudas sobre algo? **[`Cómo pedir ayuda`](https://forum.freecodecamp.com/t/how-to-get-help-when-you-are-stuck/19514)** de la mejor manera.
+
+6. Chequeá que te hayas unido a **[`nuestra comunidad en Meetup`](https://www.meetup.com/freeCodeCampBA)** y asegurate de hacer `RSVP` con tus datos los días que vayas a venir!\* **(obligatorio)**.
+
+7. Nuestra filosofía de aprendizaje se basa en el **[`intercambio entre pares`](https://en.wikipedia.org/wiki/Peer_learning)**: cuando aprendas algo nuevo podés enseñárselo a otra persona. Además, es la mejor forma de poner a prueba tus conocimientos.
+
+8. Cualquier problema, consulta o sugerencia que tengas, comunicate con los **[`organizadores`](#organizadores)**.
 
 \(*) Por respeto y consideración con los demás, te pedimos que en caso de que sepas que no vas a poder asistir a algún encuentro actualices tu `RSVP`. Gracias.
 
