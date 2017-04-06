@@ -104,7 +104,7 @@
 
 ## Organizadores
 
-- `Leonardo Galante` (**[`@leo_gln`](https://twitter.com/leo_gln)**)
+- `Leonardo Galante` (**[`@leogln_`](https://twitter.com/leogln_)**)
 - `Nicolás Quiroz` (**[`@_nhsz`](https://twitter.com/_nhsz)**)
 - `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
 - `Camilo Rodríguez Blanco` (**[`@camilolwi`](https://twitter.com/Camilolwi)**)
