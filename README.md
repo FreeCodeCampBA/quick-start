@@ -110,6 +110,7 @@
 - `Camilo Rodríguez Blanco` (**[`@camilolwi`](https://twitter.com/Camilolwi)**)
 - `Azucena Zhou` (**[`@AzuZhou`](https://twitter.com/AzuZhou)**)
 - `Maximiliano Alejo Feldman` (**[`@mafeld1`](https://twitter.com/mafeld1)**)
+- `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 
 ---
 
