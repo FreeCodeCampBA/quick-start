@@ -111,7 +111,7 @@
 - `Azucena Zhou` (**[`@AzuZhou`](https://twitter.com/AzuZhou)**)
 - `Maximiliano Alejo Feldman` (**[`@mafeld1`](https://twitter.com/mafeld1)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
-
+- `Annabella Pavlic Di Mari` (**[`@AnnabellaPavlic`](https://twitter.com/AnnabellaPavlic)**)
 ---
 
 Guía escrita por **[`Nicolás Quiroz`](https://nicolasquiroz.com)**
