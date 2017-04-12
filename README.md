@@ -47,6 +47,7 @@
 > Para estar al tanto de todas las novedades
 
 - **[`Website`](https://freecodecampba.org)**  
+- **[`Meetup`](https://www.meetup.com/freeCodeCampBA)**   
 - **[`Twitter`](https://twitter.com/freeCodeCampBA)**  
 - **[`Facebook`](https://www.facebook.com/groups/free.code.camp.buenos.aires/)**  
 - **[`eMail`](mailto:freecodecampba@gmail.com)**  
