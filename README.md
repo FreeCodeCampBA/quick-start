@@ -87,6 +87,7 @@
 ### JavaScript
 
 - **[`JavaScript For Cats`](http://jsforcats.com/)** – Una introducción para nuevos programadores.
+- **[`JavaScript 101`](https://github.com/javascript-101/javascript-101)** – Workshop introductorio a la programación usando JavaScript.
 
 ### Node.js
 
