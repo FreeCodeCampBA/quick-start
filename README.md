@@ -102,6 +102,10 @@
 - **[`Eloquent JavaScript`](http://eloquentjavascript.net)** – Libro para empezar a programar en JS.
 - **[`You Don't Know JS (book series)`](https://github.com/getify/You-Dont-Know-JS)** – Serie de libros sobre el lenguaje.
 
+
+## Yapa
+- **[`Learn Anything`](https://learn-anything.xyz)** – Busca lo que quieras aprender y listo!
+
 ---
 
 ## Organizadores
