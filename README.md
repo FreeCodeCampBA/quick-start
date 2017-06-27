@@ -102,9 +102,8 @@
 - **[`Eloquent JavaScript`](http://eloquentjavascript.net)** – Libro para empezar a programar en JS.
 - **[`You Don't Know JS (book series)`](https://github.com/getify/You-Dont-Know-JS)** – Serie de libros sobre el lenguaje.
 
-
-## Yapa
-- **[`Learn Anything`](https://learn-anything.xyz)** – Busca lo que quieras aprender y listo!
+### Yapa
+- **[`Learn Anything`](https://learn-anything.xyz)** – Buscá lo que quieras aprender y listo!
 
 ---
 
@@ -119,6 +118,7 @@
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Annabella Pavlic Di Mari` (**[`@AnnabellaPavlic`](https://twitter.com/AnnabellaPavlic)**)
 - `Luciano Ramello`(**[`@luchosr10`](https://twitter.com/luchosr10)**)
+
 ---
 
 Guía escrita por **[`Nicolás Quiroz`](https://nicolasquiroz.com)**
