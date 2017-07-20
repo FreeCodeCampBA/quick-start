@@ -82,7 +82,7 @@
 
 ### HTML & CSS
 
-- **[`Learn to Code HTML & CSS`](https://internetingishard.com/html-and-css/)** – Una guía simple para aprender HTML y CSS.
+- **[`HTML & CSS is hard (but it doesn’t have to be)`](https://internetingishard.com/html-and-css/)** – Una guía ilustrada para aprender HTML y CSS.
 
 ### JavaScript
 
@@ -95,7 +95,7 @@
 
 ### Git
 
-- **[`git - the simple guide`](http://rogerdudler.github.io/git-guide/)** – Una guía sencilla para comenzar con git. sin complicaciones.
+- **[`git - the simple guide`](http://rogerdudler.github.io/git-guide/)** – Una guía sencilla para comenzar con git sin complicaciones.
 
 ### eBooks
 
