@@ -61,7 +61,7 @@
 - Enfocate en aprender los **conceptos fundamentales**, no las herramientas, librerías, frameworks, etc.
 - No copies y pegues código ajeno en tus proyectos, tipeá cada caracter! 
 - En lugar de resolver los ejercicios usando Codepen o el editor de la plataforma, instalate un editor de texto y desarrollá localmente en tu máquina: **[`Atom`](https://atom.io/)**, **[`Sublime Text`](https://www.sublimetext.com/)** y **[`Visual Studio Code`](https://code.visualstudio.com/)** son excelentes alternativas gratuitas que podés usar. Probá y elegí el que más te guste!
-- Usá **[`Codepen`](https://codepen.io/)** y cualquier otro editor/IDE online **sólo** para compartir de manera fácil y rápida tus proyectos, **no para desarrollarlos**. 
+- Usá **[`Codepen`](https://codepen.io/)** y cualquier otro editor/IDE online **sólo** para compartir de manera fácil y rápida tus proyectos, **no para desarrollarlos**. [Acá](https://medium.com/@lucianoramello/usando-codepen-tips-y-buenas-prácticas-7a61183face1) tenés un artículo con tips y buenas prácticas para usar Codepen.
 - Aprendé y usá **[`Git`](https://git-scm.com/)** en todos tus proyectos. 
 - Subí todo tu código a tu cuenta de GitHub, en repositorios públicos. De ahora en más, tratalo como **tu nuevo CV**.
 - Publicá tus proyectos en la web y compartilas, usando **[`GitHub Pages`](https://pages.github.com/)**, **[`Surge.sh`](https://surge.sh/)**, **[`Heroku`](https://www.heroku.com/)** o **[`Now`](https://zeit.co/now)**. 
