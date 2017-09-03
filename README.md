@@ -87,11 +87,13 @@
 ### JavaScript
 
 - **[`JavaScript For Cats`](http://jsforcats.com/)** – Una introducción para nuevos programadores.
+-  **[`Practical JavaScript`](https://watchandcode.com/p/practical-javascript)** – Curso de JavaScript en video con un enfoque práctico, de nivel inicial a avanzado.
 - **[`JavaScript 101`](https://github.com/javascript-101/javascript-101)** – Workshop introductorio a la programación usando JavaScript.
 
 ### Node.js
 
 - **[`The Art of Node`](https://github.com/maxogden/art-of-node#readme)** – Introducción y tutoriales que cubren lo fundamental de NodeJS.
+- **[`The Node Beginner Book`](https://glitch.com/edit/#!/node-beginner?path=README.md:1:0)** – Versión interactiva del [libro](https://www.nodebeginner.org/). Aprendé NodeJS mientras creás una aplicación simple en el camino.
 
 ### Git
 
