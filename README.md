@@ -108,6 +108,7 @@
 - **[`You Don't Know JS (book series)`](https://github.com/getify/You-Dont-Know-JS)** – Serie de libros sobre el lenguaje.
 
 ### Yapa
+- ¿Querés más recursos gratuitos? ¡Buscá en nuestra **[`Wiki`](https://freecodecampba.org/wiki)**!
 - **[`Learn Anything`](https://learn-anything.xyz)** – Buscá lo que quieras aprender y listo!
 
 ---
