@@ -94,10 +94,13 @@
 
 - **[`The Art of Node`](https://github.com/maxogden/art-of-node#readme)** – Introducción y tutoriales que cubren lo fundamental de NodeJS.
 - **[`The Node Beginner Book`](https://glitch.com/edit/#!/node-beginner?path=README.md:1:0)** – Versión interactiva del [libro](https://www.nodebeginner.org/). Aprendé NodeJS mientras creás una aplicación simple en el camino.
+- **[`Node JS Tutorial for Beginners`](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)** – Tutorial de [The Net Ninja](https://www.thenetninja.co.uk).
 
 ### Git
 
 - **[`git - the simple guide`](http://rogerdudler.github.io/git-guide/)** – Una guía sencilla para comenzar con git sin complicaciones.
+- **[`Git & GitHub - freeCodeCamp`](https://www.youtube.com/playlist?list=PLGvfHSgImk4aTlKBUPeC8Eh42LVDcSv9s)**
+- **[`Git & GitHub Tutorial for Beginners`](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)** – Tutorial de [The Net Ninja](https://www.thenetninja.co.uk).
 
 ### eBooks
 
