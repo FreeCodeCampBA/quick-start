@@ -88,12 +88,13 @@
 
 - **[`JavaScript For Cats`](http://jsforcats.com/)** – Una introducción para nuevos programadores.
 -  **[`Practical JavaScript`](https://watchandcode.com/p/practical-javascript)** – Curso de JavaScript en video con un enfoque práctico, de nivel inicial a avanzado.
+- **[`JavaScript Basics`](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)** – Curso de JavaScript complementario a los [ejercicios de freeCodeCamp](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript).
 - **[`JavaScript 101`](https://github.com/javascript-101/javascript-101)** – Workshop introductorio a la programación usando JavaScript.
 
 ### Node.js
 
 - **[`The Art of Node`](https://github.com/maxogden/art-of-node#readme)** – Introducción y tutoriales que cubren lo fundamental de NodeJS.
-- **[`The Node Beginner Book`](https://glitch.com/edit/#!/node-beginner?path=README.md:1:0)** – Versión interactiva del [libro](https://www.nodebeginner.org/). Aprendé NodeJS mientras creás una aplicación simple en el camino.
+- **[`The Node Beginner Book`](https://glitch.com/edit/#!/node-beginner?path=README.md:1:0)** – Versión interactiva del [libro](https://www.nodebeginner.org/). Aprendé NodeJS mientras creás una aplicación simple.
 - **[`Node JS Tutorial for Beginners`](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)** – Tutorial de [The Net Ninja](https://www.thenetninja.co.uk).
 
 ### Git
@@ -106,6 +107,7 @@
 
 - **[`Eloquent JavaScript`](http://eloquentjavascript.net)** – Libro para empezar a programar en JS.
 - **[`You Don't Know JS (book series)`](https://github.com/getify/You-Dont-Know-JS)** – Serie de libros sobre el lenguaje.
+- **[`Exploring JS: JavaScript books for programmers`](http://exploringjs.com)** – Serie de libros sobre JavaScript, de **nivel avanzado**.
 
 ### Yapa
 - ¿Querés más recursos gratuitos? ¡Buscá en nuestra **[`Wiki`](https://freecodecampba.org/wiki)**!
