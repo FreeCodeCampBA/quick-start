@@ -51,7 +51,7 @@
 - **[`Meetup`](https://www.meetup.com/freeCodeCampBA)**   
 - **[`Twitter`](https://twitter.com/freeCodeCampBA)**  
 - **[`Facebook`](https://www.facebook.com/groups/free.code.camp.buenos.aires/)**
-- **[`Youtube`](https://www.youtube.com/channel/UCML6D-qES0T7YKJXfMgKo4A/videos)**
+- **[`Youtube`](https://www.youtube.com/channel/UCML6D-qES0T7YKJXfMgKo4A)**
 - **[`eMail`](mailto:freecodecampba@gmail.com)**  
 
 ### Bonus
