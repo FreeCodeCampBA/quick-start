@@ -25,17 +25,17 @@
 
 ## Primeros pasos
 
-1. Antes que nada, leé nuestro **[`FAQ`](https://github.com/freeCodeCampBA/faq)** y **[`Código de Conducta`](https://github.com/freeCodeCampBA/codigo)**.
+1. Antes que nada, leé nuestro **[`FAQ`](http://bit.ly/fccba-faq)** y **[`Código de Conducta`](http://bit.ly/fccba-codigo)**.
 
 2. Si todavía no lo hiciste, create una cuenta en **[`GitHub`](https://github.com/)**.
 
 3. Registrate en **[`freeCodeCamp`](https://www.freecodecamp.com/)** con tu cuenta de GitHub.
 
-4. Unite a nuestro **[`chat en Slack`](https://freecodecampba.org/chat)**.
+4. Unite a nuestro **[`chat en Slack`](bit.ly/fccba-chat)**.
 
 5. Tenés dudas sobre algo? **[`Cómo pedir ayuda`](https://forum.freecodecamp.com/t/how-to-get-help-when-you-are-stuck/19514)** de la mejor manera.
 
-6. Chequeá que te hayas unido a **[`nuestra comunidad en Meetup`](https://www.meetup.com/freeCodeCampBA)** y asegurate de hacer `RSVP` con tus datos los días que vayas a venir!\* **(obligatorio)**.
+6. Chequeá que te hayas unido a **[`nuestra comunidad en Meetup`](http://bit.ly/fccba-meetup)** y asegurate de hacer `RSVP` con tus datos los días que vayas a venir!\* **(obligatorio)**.
 
 7. Nuestra filosofía de aprendizaje se basa en el **[`intercambio entre pares`](https://en.wikipedia.org/wiki/Peer_learning)**: cuando aprendas algo nuevo podés enseñárselo a otra persona. Además, es la mejor forma de poner a prueba tus conocimientos.
 
@@ -48,11 +48,11 @@
 > Para estar al tanto de todas las novedades
 
 - **[`Website`](https://freecodecampba.org)**  
-- **[`Meetup`](https://www.meetup.com/freeCodeCampBA)**   
-- **[`Twitter`](https://twitter.com/freeCodeCampBA)**  
-- **[`Facebook`](https://www.facebook.com/groups/free.code.camp.buenos.aires/)**
-- **[`Youtube`](https://www.youtube.com/channel/UCML6D-qES0T7YKJXfMgKo4A)**
-- **[`Medium`](https://medium.com/free-code-camp-buenos-aires/)**
+- **[`Meetup`](http://bit.ly/fccba-meetup)**   
+- **[`Twitter`](http://bit.ly/fccba-twitter)**  
+- **[`Facebook`](http://bit.ly/fccba-facebook)**
+- **[`Youtube`](bit.ly/fccba-videos)**
+- **[`Medium`](http://bit.ly/fccba-medium)**
 - **[`eMail`](mailto:freecodecampba@gmail.com)**  
 
 ### Bonus
