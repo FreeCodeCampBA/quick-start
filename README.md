@@ -51,7 +51,7 @@
 - **[`Meetup`](http://bit.ly/fccba-meetup)**   
 - **[`Twitter`](http://bit.ly/fccba-twitter)**  
 - **[`Facebook`](http://bit.ly/fccba-facebook)**
-- **[`Youtube`](bit.ly/fccba-videos)**
+- **[`Youtube`](http://bit.ly/fccba-videos)**
 - **[`Medium`](http://bit.ly/fccba-medium)**
 - **[`eMail`](mailto:freecodecampba@gmail.com)**  
 
