@@ -52,6 +52,7 @@
 - **[`Twitter`](http://bit.ly/fccba-twitter)**  
 - **[`Facebook`](http://bit.ly/fccba-facebook)**
 - **[`Youtube`](http://bit.ly/fccba-videos)**
+- **[`Instagram`](http://bit.ly/fccba-instagram)**
 - **[`Medium`](http://bit.ly/fccba-medium)**
 - **[`eMail`](mailto:freecodecampba@gmail.com)**  
 
