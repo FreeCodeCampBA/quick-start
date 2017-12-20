@@ -87,6 +87,8 @@
 ### HTML & CSS
 
 - **[`HTML & CSS is hard (but it doesn’t have to be)`](https://internetingishard.com/html-and-css/)** – Una guía ilustrada para aprender HTML y CSS.
+- **[`htmlreference.io`](http://htmlreference.io/)** – Una guía de HTML con previews para cada feature. 
+- **[`cssreference.io`](http://cssreference.io/)** – Una guía de CSS con previews para cada feature. 
 
 ### JavaScript
 
