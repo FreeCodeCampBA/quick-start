@@ -129,11 +129,11 @@
 - `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
 - `Camilo Rodríguez Blanco` (**[`@camilolwi`](https://twitter.com/Camilolwi)**)
 - `Azucena Zhou` (**[`@AzuZhou`](https://twitter.com/AzuZhou)**)
-- `Maximiliano Alejo Feldman` (**[`@mafeld1`](https://twitter.com/mafeld1)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Annabella Pavlic Di Mari` (**[`@AnnabellaPavlic`](https://twitter.com/AnnabellaPavlic)**)
 - `Luciano Ramello`(**[`@luchosr10`](https://twitter.com/luchosr10)**)
 - `Hugo David Farji`(**[`@hdf1986`](https://twitter.com/hdf1986)**)
+- `Guadalupe Lazzo` (**[`@Waduchis`](https://twitter.com/Waduchis)**)
 
 ---
 
