@@ -39,9 +39,9 @@
 
 7. Nuestra filosofía de aprendizaje se basa en el **[`intercambio entre pares`](https://en.wikipedia.org/wiki/Peer_learning)**: cuando aprendas algo nuevo podés enseñárselo a otra persona. Además, es la mejor forma de poner a prueba tus conocimientos.
 
-8. Cualquier problema, consulta o sugerencia que tengas, comunicate con los **[`organizadores`](#organizadores)**.
+8. Cualquier problema, consulta o sugerencia que tengas, comunicate con lxs **[`organizadores`](#organizadores)**.
 
-\(*) Por respeto y consideración con los demás, te pedimos que en caso de que sepas que no vas a poder asistir a algún encuentro actualices tu `RSVP`. Gracias.
+\(*) Por respeto y consideración con lxs demás, te pedimos que en caso de que sepas que no vas a poder asistir a algún encuentro actualices tu `RSVP`. Gracias.
 
 ### Sitio y redes sociales
 
