@@ -127,7 +127,6 @@
 - `Leonardo Galante` (**[`@lndgalante`](https://twitter.com/lndgalante)**)
 - `Nicolás Quiroz` (**[`@_nhsz`](https://twitter.com/_nhsz)**)
 - `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
-- `Camilo Rodríguez Blanco` (**[`@camilolwi`](https://twitter.com/Camilolwi)**)
 - `Azucena Zhou` (**[`@AzuZhou`](https://twitter.com/AzuZhou)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Annabella Pavlic Di Mari` (**[`@AnnabellaPavlic`](https://twitter.com/AnnabellaPavlic)**)
@@ -137,4 +136,4 @@
 
 ---
 
-Guía escrita por **[`Nicolás Quiroz`](https://nicolasquiroz.com)**
+Guía escrita por **[`Nicolás Quiroz`](https://twitter.com/_nhsz)**
