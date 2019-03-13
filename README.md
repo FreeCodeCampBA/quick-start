@@ -128,7 +128,6 @@
 ## Organizadores
 
 - `Leonardo Galante` (**[`@lndgalante`](https://twitter.com/lndgalante)**)
-- `Nicolás Quiroz` (**[`@_nhsz`](https://twitter.com/_nhsz)**)
 - `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
 - `Azucena Zhou` (**[`@AzuZhou`](https://twitter.com/AzuZhou)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
