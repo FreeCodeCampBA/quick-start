@@ -128,12 +128,14 @@
 ## Organizadores
 
 - `Leonardo Galante` (**[`@lndgalante`](https://twitter.com/lndgalante)**)
+- `Nicolás Quiroz` (**[`@_nhsz`](https://twitter.com/_nhsz)**)
 - `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
 - `Azucena Zhou` (**[`@AzuZhou`](https://twitter.com/AzuZhou)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Annabella Pavlic Di Mari` (**[`@AnnabellaPavlic`](https://twitter.com/AnnabellaPavlic)**)
 - `Luciano Ramello`(**[`@luchosr10`](https://twitter.com/luchosr10)**)
 - `Hugo David Farji`(**[`@hdf1986`](https://twitter.com/hdf1986)**)
+- `Gonzalo Pozzo`(**[`@goncy`](https://twitter.com/goncy)**)
 - `Guadalupe Lazzo` (**[`@Waduchis`](https://twitter.com/Waduchis)**)
 
 ---
