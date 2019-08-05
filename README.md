@@ -134,7 +134,6 @@
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Annabella Pavlic Di Mari` (**[`@AnnabellaPavlic`](https://twitter.com/AnnabellaPavlic)**)
 - `Luciano Ramello`(**[`@luchosr10`](https://twitter.com/luchosr10)**)
-- `Hugo David Farji`(**[`@hdf1986`](https://twitter.com/hdf1986)**)
 - `Gonzalo Pozzo`(**[`@goncy`](https://twitter.com/goncy)**)
 - `Guadalupe Lazzo` (**[`@luppelazzo`](https://twitter.com/luppelazzo)**)
 
