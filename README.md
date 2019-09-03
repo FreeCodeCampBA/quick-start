@@ -70,7 +70,9 @@
 - Usá **[`Codepen`](https://codepen.io/)** y cualquier otro editor/IDE online **sólo** para compartir de manera fácil y rápida tus proyectos, **no para desarrollarlos**. **[`Acá`](https://medium.com/@lucianoramello/usando-codepen-tips-y-buenas-prácticas-7a61183face1)** tenés un artículo con tips y buenas prácticas para usar Codepen.
 - Aprendé y usá **[`Git`](https://git-scm.com/)** en todos tus proyectos.
 - Subí todo tu código a tu cuenta de GitHub, en repositorios públicos. De ahora en más, tratalo como **tu nuevo CV**.
-- Publicá tus proyectos en la web y compartilas, usando **[`GitHub Pages`](https://pages.github.com/)**, **[`Surge.sh`](https://surge.sh/)**, **[`Heroku`](https://www.heroku.com/)** o **[`Now`](https://zeit.co/now)**.
+- Publicá **gratis** (_si son open source_) tus proyectos en la web y compartilos. Ideal para armar tu portfolio!
+  - Sitios _estáticos_: **[`GitHub Pages`](https://pages.github.com/)**, **[`Netlify`](https://www.netlify.com/)**, **[`Surge`](https://surge.sh/)**
+  - Sitios _dinámicos_: **[`Heroku`](https://www.heroku.com/)**, **[`Now`](https://zeit.co/now)**, **[`Netlify`](https://www.netlify.com/)**
 - Si estás leyendo algún libro o haciendo un curso complementario, completá los ejercicios.
 - Problemas algorítmicos? Leé algunas **[`estrategias y consejos`](https://nicolasquiroz.com/problem-solving-strategies/)** para resolverlos.
 
