@@ -101,7 +101,9 @@
 - **[`Practical JavaScript`](https://watchandcode.com/p/practical-javascript)** – Curso de JavaScript en video con un enfoque práctico, de nivel inicial a avanzado.
 - **[`JavaScript Basics`](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)** – Curso de JavaScript complementario a los [ejercicios de freeCodeCamp](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript).
 - **[`JavaScript 101`](https://github.com/javascript-101/javascript-101)** – Workshop introductorio a la programación usando JavaScript.
-  
+- **[`JavaScript Array Explorer`](https://sdras.github.io/array-explorer/)** – Encontrá el método de array que necesitás sin tener que buscar en la documentación.
+- **[`JavaScript Object Explorer`](https://sdras.github.io/object-explorer/)** – Encontrá el método de objetos que necesitás sin tener que buscar en la documentación.
+
 ### Node.js
 
 - **[`The Art of Node`](https://github.com/maxogden/art-of-node#readme)** – Introducción y tutoriales que cubren lo fundamental de NodeJS.
