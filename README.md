@@ -72,8 +72,8 @@
 - Aprendé y usá **[`Git`](https://git-scm.com/)** en todos tus proyectos.
 - Subí todo tu código a tu cuenta de GitHub, en repositorios públicos. De ahora en más, tratalo como **tu nuevo CV**.
 - Publicá **gratis** (_si son open source_) tus proyectos en la web y compartilos. Ideal para armar tu portfolio!
-  - Sitios _estáticos_: **[`GitHub Pages`](https://pages.github.com/)**, **[`Netlify`](https://www.netlify.com/)**, **[`Surge`](https://surge.sh/)**
-  - Sitios _dinámicos_: **[`Heroku`](https://www.heroku.com/)**, **[`Now`](https://zeit.co/now)**, **[`Netlify`](https://www.netlify.com/)**
+  - Sitios _estáticos_: **[`GitHub Pages`](https://pages.github.com/)**, **[`Vercel`](https://vercel.com/)**, **[`Netlify`](https://www.netlify.com/)**, **[`Surge`](https://surge.sh/)**
+  - Sitios _dinámicos_: **[`Heroku`](https://www.heroku.com/)**, **[`Vercel`](https://vercel.com/)**, **[`Netlify`](https://www.netlify.com/)**
 - Si estás leyendo algún libro o haciendo un curso complementario, completá los ejercicios.
 - Problemas algorítmicos? Leé algunas **[`estrategias y consejos`](https://nicolasquiroz.com/problem-solving-strategies/)** para resolverlos.
 
