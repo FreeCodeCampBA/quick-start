@@ -157,7 +157,7 @@ Notas de [undefined school](https://undefinedschool.io/) sobre diferentes concep
 
 #### Otros
 
-- **[`Notas sobre deployments`](https://github.com/undefinedschool/notes-deployment)**
+- **[`Deployments`](https://github.com/undefinedschool/notes-deployment)**
 - **[`Git Rebase vs Git Merge`](https://github.com/undefinedschool/notes-rebase-vs-merge)**
 
 ### Git
