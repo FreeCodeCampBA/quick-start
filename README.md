@@ -75,7 +75,6 @@
   - Sitios _estáticos_: **[`GitHub Pages`](https://pages.github.com/)**, **[`Vercel`](https://vercel.com/)**, **[`Netlify`](https://www.netlify.com/)**, **[`Surge`](https://surge.sh/)**
   - Sitios _dinámicos_: **[`Heroku`](https://www.heroku.com/)**, **[`Vercel`](https://vercel.com/)**, **[`Netlify`](https://www.netlify.com/)**
 - Si estás leyendo algún libro o haciendo un curso complementario, completá los ejercicios.
-- Problemas algorítmicos? Leé algunas **[`estrategias y consejos`](https://nicolasquiroz.com/problem-solving-strategies/)** para resolverlos.
 
 ---
 
