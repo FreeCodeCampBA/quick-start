@@ -181,13 +181,11 @@ Notas de [undefined school](https://undefinedschool.io/) sobre diferentes concep
 
 ## Organizadores
 
-- `Leonardo Galante` (**[`@lndgalante`](https://twitter.com/lndgalante)**)
 - `Nicolás Quiroz` (**[`@_nhsz`](https://twitter.com/_nhsz)**)
 - `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Luciano Ramello`(**[`@luchosr10`](https://twitter.com/luchosr10)**)
 - `Gonzalo Pozzo`(**[`@goncy`](https://twitter.com/goncy)**)
-- `Guadalupe Lazzo` (**[`@luppelazzo`](https://twitter.com/luppelazzo)**)
 - `Agustín Mulet` (**[`@AgustinDMulet`](https://twitter.com/AgustinDMulet)**)
 
 ---
