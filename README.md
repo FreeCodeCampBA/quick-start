@@ -181,7 +181,6 @@ Notas de [undefined school](https://undefinedschool.io/) sobre diferentes concep
 
 ## Organizadores
 
-- `Nicolás Quiroz` (**[`@_nhsz`](https://twitter.com/_nhsz)**)
 - `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Luciano Ramello`(**[`@luchosr10`](https://twitter.com/luchosr10)**)
