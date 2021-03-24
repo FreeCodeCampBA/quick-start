@@ -189,4 +189,4 @@ Notas de [undefined school](https://undefinedschool.io/) sobre diferentes concep
 
 ---
 
-Guía escrita por **[`Nicolás Quiroz`](https://twitter.com/_nhsz)**
+Guía escrita por **[`Nicolás Quiroz`](https://github.com/nhsz)**
