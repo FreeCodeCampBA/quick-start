@@ -181,7 +181,7 @@ Notas de [undefined school](https://undefinedschool.io/) sobre diferentes concep
 
 ## Organizadores
 
-- `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger_)**)
+- `Ariel Gerstein` (**[`@arielger_`](https://twitter.com/arielger)**)
 - `Roy Eden` (**[`@Royede`](https://twitter.com/Royede)**)
 - `Luciano Ramello`(**[`@luchosr10`](https://twitter.com/luchosr10)**)
 - `Gonzalo Pozzo`(**[`@goncy`](https://twitter.com/goncy)**)
@@ -189,4 +189,4 @@ Notas de [undefined school](https://undefinedschool.io/) sobre diferentes concep
 
 ---
 
-Guía escrita por **[`Nicolás Quiroz`](https://github.com/nhsz)**
+Guía escrita por **[`Nicolás Quiroz`](https://twitter.com/___nhsz)**
